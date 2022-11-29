@@ -2,6 +2,8 @@ console.log('Hello World!')
 
 const hola = 'hola'
 
-const adios = 'adios'
+const adios = 'chau'
 
 console.log('Goodbye World!')
+
+const algomas = 'algomas'
